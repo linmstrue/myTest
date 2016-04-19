@@ -5,7 +5,7 @@
 <head>
 <script src="http://connect.facebook.net/zh_TW/all.js#xfbml=1"></script>
 <meta name="description" content="隱私權及資訊安全政策" />
-<title>隱私權及資訊安全政策</title>
+<title>愛台北-隱私權及資訊安全政策</title>
 
 <link href='<c:url value="/resources/css/web/stmt.css"/>' rel="stylesheet" type="text/css">
 <script type="text/javascript">
